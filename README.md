@@ -4,7 +4,6 @@
 
 Türkiye 'de ki Melek Yatırımcı Listesi : 
 (Listeye sizde olanları da ekleyerek çoğaltabiliriz arkadaşlar, sevgiler.)
-(Listenin ilk halini Fuat Mehmet Ödemişli oluşturmuştur)
 
 ###### Sina Afra
 * Markafoni’nin kurucu ortağı ve CEO’su
