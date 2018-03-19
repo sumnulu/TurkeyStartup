@@ -1,4 +1,6 @@
 # TurkeyStartup
+* [Melek Yatırımcı Listesi](#melek-yatırımcı-listesi)
+* [Girişim Sermayesi - VC Listesi](#girişim-sermayesi)
 
 ### Melek Yatırımcı Listesi
 
@@ -122,3 +124,12 @@ Türkiye 'de ki Melek Yatırımcı Listesi :
 * Twitter: @erdemyurdanur
 * Linkedin: https://www.linkedin.com/in/erdemyurdanur
 * Web sitesi: erdemyurdanur.com
+
+### Girişim Sermayesi
+
+###### Scalex Ventures
+* Maçkolik’in kurucu ortağı
+* Bilinen yatırımları: Picus Security, Team SQL, Genomize
+* Twitter: https://twitter.com/ScaleXVentures
+* Linkedin: https://www.linkedin.com/company-beta/10967830/
+* Web sitesi: https://www.scalexventures.com
