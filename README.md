@@ -3,6 +3,7 @@ Listeye bildiğiniz kişi ve kurumları ekleyerek pull request yollayabilirsiniz
 
 * [Melek Yatırımcı Listesi](#melek-yatırımcı-listesi)
 * [Girişim Sermayesi - VC Listesi](#girişim-sermayesi)
+* [Şirketler / Girişimler](https://github.com/sumnulu/TurkeyStartup/blob/master/Startups.md)
 
 ### Melek Yatırımcı Listesi
 
