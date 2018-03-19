@@ -1,4 +1,4 @@
-#Türkiye Kurulan Startup Listesi
+# Türkiye Kurulan Startup Listesi
 
 Kendi şirketinizi listeye ekledikten sonra PR yollayabilirsiniz.
 
