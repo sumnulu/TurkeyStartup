@@ -1,11 +1,12 @@
 # TurkeyStartup
+Listeye bildiğiniz kişi ve kurumları ekleyerek pull request yollayabilirsiniz.
+
 * [Melek Yatırımcı Listesi](#melek-yatırımcı-listesi)
 * [Girişim Sermayesi - VC Listesi](#girişim-sermayesi)
 
 ### Melek Yatırımcı Listesi
 
 Türkiye 'de ki Melek Yatırımcı Listesi : 
-(Listeye sizde olanları da ekleyerek çoğaltabiliriz arkadaşlar, sevgiler.)
 
 ###### Sina Afra
 * Markafoni’nin kurucu ortağı ve CEO’su
